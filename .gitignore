@@ -1,3 +1,13 @@
+# My custom
+_[I|i]stall*
+_[B|b]uild*
+_*/
+.vs/
+!.vscode/
+vendors/*
+!vendors/CMakeLists.txt
+
+# CMake 
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles

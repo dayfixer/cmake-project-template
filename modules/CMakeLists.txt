@@ -1,0 +1,2 @@
+add_subdirectory(Chinese)
+add_subdirectory(English)
